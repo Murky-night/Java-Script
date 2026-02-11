@@ -20,3 +20,15 @@ console.log(Undefined);
 //null
 const testNull = null;
 console.log(testNull);
+
+//object
+const person = {
+    name: "Nariyuki",
+    age: 20,
+    address: "Hanoi"
+}
+console.log(person);
+
+//array
+const scores = [1, 2, 3, 4, 5]
+console.log(scores);
