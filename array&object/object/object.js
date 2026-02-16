@@ -1,4 +1,4 @@
-console.log("Array");
+console.log("Object");
 
 const sv1 = {
     name: "Nam",
