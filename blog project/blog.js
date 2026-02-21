@@ -88,10 +88,10 @@ const handleNewBlog = () => {
 }
 
 const handleDeleteBtns = () => {
-    const btns = document.querySelectorAll(".deleteBtn");
+    const deleteBtns = document.querySelectorAll(".deleteBtn");
 
-    if (btns) {
-        btns.forEach(btn => {
+    if (deleteBtns) {
+        deleteBtns.forEach(btn => {
             btn.addEventListener("click", async () => {
                 const id = btn.getAttribute("data-id");
                 const rawResponse = await fetch(`http://localhost:8000/blogs/${id}`, {
