@@ -17,15 +17,14 @@ Solutions to structured JavaScript lab assignments focusing on algorithm impleme
 1. Clone the repository: git clone https://github.com/Murky-night/Java-Script.git
 2. Run the code
 
-Since this repository contains pure JavaScript and HTML files, you can run them directly:
+  Since this repository contains pure JavaScript and HTML files, you can run them directly:
 
-For HTML files: Right-click any .html file and select Open with Live Server in VS Code.
+  For HTML files: Right-click any .html file and select Open with Live Server in VS Code.
 
-For JS files: Run them in your terminal using Node.js:
-
-node folder-name/filename.js
+  For JS files: Run them in your terminal using Node.js: node folder-name/filename.js
 
 📈 Technical Skills Showcased
+
 Front-end Logic: Building interactive elements using vanilla JS.
 
 Data Management: Organizing information effectively using Objects and Arrays.
